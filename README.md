@@ -1,151 +1,122 @@
-# 🚖 Ola Business Dashboard | Power BI
+# Ola Business Dashboard
 
-An interactive **Power BI Business Dashboard** built using an Ola ride-booking dataset to analyze business performance, booking trends, customer behavior, revenue, cancellations, and operational KPIs.
+## 1. Project Title / Headline
 
----
+**Ola Business Dashboard – Power BI Analytics**
 
-## 📌 Project Overview
-
-This dashboard transforms raw ride-booking data into meaningful business insights through interactive visualizations. It enables users to monitor key metrics, identify trends, and support data-driven decision-making.
+An interactive Power BI dashboard built to analyze Ola ride-booking data, providing insights into bookings, revenue, cancellations, vehicle performance, and customer ratings.
 
 ---
 
-## 📊 Dashboard Highlights
+## 2. Short Description / Purpose
 
-- 📈 Total Bookings Analysis
-- 💰 Revenue & Booking Value Tracking
-- 🚗 Ride Status Overview
-- ❌ Cancellation Analysis
-- ⭐ Customer Ratings Analysis
-- 🏙️ Vehicle Type Performance
-- 📍 Location-wise Insights
-- 📅 Monthly & Daily Booking Trends
-- 🎯 Interactive Filters & Slicers
+The Ola Business Dashboard is designed to convert raw ride-booking data into meaningful business insights through interactive visualizations. It helps users monitor key performance indicators, identify trends, and support data-driven decision-making.
 
 ---
 
-## 📈 Key KPIs
+## 3. Tech Stack
 
-- Total Bookings
-- Total Revenue
-- Average Ride Value
-- Successful Rides
-- Cancelled Rides
-- Cancellation Rate
-- Average Customer Rating
-- Vehicle-wise Performance
+The dashboard was built using the following tools and technologies:
 
----
-
-## 🛠️ Tools & Technologies
-
-- Microsoft Power BI
-- Microsoft Excel
-- Power Query
-- DAX (Data Analysis Expressions)
-- Data Cleaning
-- Data Visualization
+* **Power BI Desktop** – Used to design and build the interactive dashboard.
+* **Microsoft Excel** – Used as the primary data source.
+* **Power Query** – Used for data cleaning and transformation.
+* **DAX (Data Analysis Expressions)** – Used to create calculated measures and KPIs.
+* **Data Modeling** – Created relationships between tables for accurate reporting.
+* **File Format** – `.pbix` for development and `.xlsx` for the dataset.
 
 ---
 
-## 📂 Project Structure
+## 4. Data Source
 
-```
-Ola-Business-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── Dashboard Screenshot.png
-└── README.md
-```
+**Source:** Sample Ola ride-booking dataset in Microsoft Excel.
+
+The dataset contains ride details such as booking status, vehicle type, revenue, cancellations, payment methods, customer ratings, and trip information. It is used to analyze operational performance and business trends.
 
 ---
 
-## 📷 Dashboard Screenshots
+## 5. Features / Highlights
 
-![image alt](https://github.com/saloni81/ola-business-dashboard/blob/1d6ad27bf87af03fe029532a956bce6e88cbbd29/Overall%20Page.png)
-![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/858bd125ee4cd357bf2fbc6b704eff6508c14e8f/Vehicle%20page.png)
-![image_alt]( https://github.com/saloni81/ola-business-dashboard/blob/e4067e0d8b4fc033ee10db90bc8c91142a4c574b/Revenue%20Page.png)
-![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/6c4600529f11cc29d914ec473621a71a39998d47/Cancellation%20Page.png)
-![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/8d3cf1888cdeb6589497d02d0751dd3a1ab97c67/Ratings%20Page.png)
+### Business Problem
 
-## 📊 Business Insights
+Ride-booking companies generate large amounts of operational data every day. Without proper visualization, it becomes difficult to monitor business performance, identify cancellation patterns, track revenue, and evaluate customer satisfaction.
 
-The dashboard helps answer questions like:
+### Goal of the Dashboard
 
-- Which vehicle category generates the highest revenue?
-- What is the overall cancellation rate?
-- Which locations have the highest bookings?
-- How do bookings change over time?
-- What is the average customer rating?
-- Which ride type performs best?
+The dashboard was created to:
 
----
+* Monitor overall business performance.
+* Analyze booking and revenue trends.
+* Compare vehicle category performance.
+* Track cancellation rates.
+* Evaluate customer ratings.
+* Support business decisions using interactive reports.
 
-## 🚀 How to Use
+### Walkthrough of Key Visuals
 
-1. Clone the repository
+**Overall Dashboard**
 
-```bash
-git clone https://github.com/saloni81/ola-business-dashboard.git
-```
+* Displays total bookings, revenue, ride status, and important KPIs.
+* ![image alt](https://github.com/saloni81/ola-business-dashboard/blob/1d6ad27bf87af03fe029532a956bce6e88cbbd29/Overall%20Page.png)
 
-2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+**Vehicle Type Dashboard**
 
-3. Refresh the dataset if required.
+* Compares bookings and performance across different vehicle categories.
+* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/858bd125ee4cd357bf2fbc6b704eff6508c14e8f/Vehicle%20page.png)
 
-4. Explore the dashboard using the interactive filters.
 
----
+**Revenue Dashboard**
 
-## 📚 Skills Demonstrated
+* Shows revenue trends and booking value analysis.
+* ![image_alt]( https://github.com/saloni81/ola-business-dashboard/blob/e4067e0d8b4fc033ee10db90bc8c91142a4c574b/Revenue%20Page.png)
 
-- Business Intelligence
-- Data Cleaning
-- Data Modeling
-- DAX
-- Power Query
-- Dashboard Design
-- KPI Reporting
-- Data Storytelling
+**Cancellation Dashboard**
 
----
+* Analyzes cancelled rides and cancellation rates.
+* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/6c4600529f11cc29d914ec473621a71a39998d47/Cancellation%20Page.png)
 
-## 🎯 Learning Outcomes
+**Ratings Dashboard**
 
-- Creating interactive Power BI dashboards
-- Building business KPIs
-- Writing DAX measures
-- Designing professional reports
-- Performing business performance analysis
+* Displays average customer ratings for each vehicle type.
+* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/8d3cf1888cdeb6589497d02d0751dd3a1ab97c67/Ratings%20Page.png)
+
+### Business Impact & Insights
+
+* Helps monitor overall business performance.
+* Identifies high-performing vehicle categories.
+* Tracks revenue trends for better financial analysis.
+* Detects cancellation patterns that may affect operations.
+* Measures customer satisfaction through ride ratings.
+* Supports better business decisions using interactive dashboards.
 
 ---
 
-## 💡 Future Improvements
+## 6. Dashboard Screenshots
 
-- Real-time data integration
-- SQL database connectivity
-- Automated data refresh
-- Predictive analytics
-- Advanced drill-through reports
+### Overall Page
+
+*Add Overall dashboard screenshot here.*
+
+### Vehicle Type Page
+
+*Add Vehicle Type dashboard screenshot here.*
+
+### Revenue Page
+
+*Add Revenue dashboard screenshot here.*
+
+### Cancellation Page
+
+*Add Cancellation dashboard screenshot here.*
+
+### Ratings Page
+
+*Add Ratings dashboard screenshot here.*
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Saloni Kumari**
 
-- GitHub: https://github.com/saloni81
-- LinkedIn: *Add your LinkedIn profile here*
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
-
----
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
+GitHub: https://github.com/saloni81
