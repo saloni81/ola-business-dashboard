@@ -63,7 +63,7 @@ Ola-Business-Dashboard/
 
 ## 📷 Dashboard Screenshots
 
-![image alt](image_url)
+![image alt](https://github.com/saloni81/ola-business-dashboard/blob/1d6ad27bf87af03fe029532a956bce6e88cbbd29/Overall%20Page.png)
 
 ## 📊 Business Insights
 
