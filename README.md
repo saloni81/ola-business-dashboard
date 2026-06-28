@@ -67,6 +67,7 @@ Ola-Business-Dashboard/
 ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/858bd125ee4cd357bf2fbc6b704eff6508c14e8f/Vehicle%20page.png)
 ![image_alt]( https://github.com/saloni81/ola-business-dashboard/blob/e4067e0d8b4fc033ee10db90bc8c91142a4c574b/Revenue%20Page.png)
 ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/6c4600529f11cc29d914ec473621a71a39998d47/Cancellation%20Page.png)
+![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/8d3cf1888cdeb6589497d02d0751dd3a1ab97c67/Ratings%20Page.png)
 
 ## 📊 Business Insights
 
