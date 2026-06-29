@@ -57,28 +57,23 @@ The dashboard was created to:
 **Overall Dashboard**
 
 * Displays total bookings, revenue, ride status, and important KPIs.
-* ![image alt](https://github.com/saloni81/ola-business-dashboard/blob/1d6ad27bf87af03fe029532a956bce6e88cbbd29/Overall%20Page.png)
 
 **Vehicle Type Dashboard**
 
 * Compares bookings and performance across different vehicle categories.
-* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/858bd125ee4cd357bf2fbc6b704eff6508c14e8f/Vehicle%20page.png)
 
 
 **Revenue Dashboard**
 
 * Shows revenue trends and booking value analysis.
-* ![image_alt]( https://github.com/saloni81/ola-business-dashboard/blob/e4067e0d8b4fc033ee10db90bc8c91142a4c574b/Revenue%20Page.png)
 
 **Cancellation Dashboard**
 
 * Analyzes cancelled rides and cancellation rates.
-* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/6c4600529f11cc29d914ec473621a71a39998d47/Cancellation%20Page.png)
 
 **Ratings Dashboard**
 
 * Displays average customer ratings for each vehicle type.
-* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/8d3cf1888cdeb6589497d02d0751dd3a1ab97c67/Ratings%20Page.png)
 
 ### Business Impact & Insights
 
@@ -95,23 +90,24 @@ The dashboard was created to:
 
 ### Overall Page
 
-*Add Overall dashboard screenshot here.*
+* ![image alt](https://github.com/saloni81/ola-business-dashboard/blob/1d6ad27bf87af03fe029532a956bce6e88cbbd29/Overall%20Page.png)
 
 ### Vehicle Type Page
+* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/858bd125ee4cd357bf2fbc6b704eff6508c14e8f/Vehicle%20page.png)
 
-*Add Vehicle Type dashboard screenshot here.*
+
 
 ### Revenue Page
 
-*Add Revenue dashboard screenshot here.*
+* ![image_alt]( https://github.com/saloni81/ola-business-dashboard/blob/e4067e0d8b4fc033ee10db90bc8c91142a4c574b/Revenue%20Page.png)
 
 ### Cancellation Page
 
-*Add Cancellation dashboard screenshot here.*
+* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/6c4600529f11cc29d914ec473621a71a39998d47/Cancellation%20Page.png)
 
 ### Ratings Page
 
-*Add Ratings dashboard screenshot here.*
+* ![image_alt](https://github.com/saloni81/ola-business-dashboard/blob/8d3cf1888cdeb6589497d02d0751dd3a1ab97c67/Ratings%20Page.png)
 
 ---
 
